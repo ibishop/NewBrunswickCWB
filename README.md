@@ -11,8 +11,12 @@ This repository contains a number of projects on New Brunswick Well-Being. I fin
 
 (TO-DO: Create Script to download data programmatically )
 
-Canadian Census Files: 
-  - a
+Canadian Census Files ( at CSD level ): 
+  - [2001, 2006, 2011 ](https://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/download-telecharger/comprehensive/comp-csv-tab-dwnld-tlchrgr.cfm?Lang=E#tabs2001)
+  - [2016](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/download-telecharger/comp/page_dl-tc.cfm?Lang=E) 
+  
+National Household Survery : 
+
 
 Boundary Files: 
   - b
@@ -26,7 +30,7 @@ Open-Street-Maps : Accesed via OSMNX package
 ### Repo Structure :
 
 - data : Contains all tabular data as a well as a script to load all files
-- shapefiles : Contains all shapefiles
+- shapefiles : Contains all shapefiles as well as a script to load all files 
 
 
 
